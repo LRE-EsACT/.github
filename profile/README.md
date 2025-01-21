@@ -1,10 +1,9 @@
-# Laboratorório de Realidade Estendida (LRE)
-Extended Reality Laboratory
+# Extended Reality Laboratory
 
 
->**Location:** Escola Superior de Comunicação, Administração e Turismo (EsACT) - Instituto Politécnico de Bragança (IPB)
+**Location:** Escola Superior de Comunicação, Administração e Turismo (EsACT) - Instituto Politécnico de Bragança (IPB)
 
->**Address:** Campus do Cruzeiro, Av. 25 de Abril Lote 2, 5370-202 Mirandela, Bragança, Portugal
+**Address:** Campus do Cruzeiro, Av. 25 de Abril Lote 2, 5370-202 Mirandela, Bragança, Portugal
 
 <!--
 
