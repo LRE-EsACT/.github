@@ -1,9 +1,13 @@
 # Extended Reality Laboratory
 
+## Contacts:
+>**Location:** Escola Superior de Comunicação, Administração e Turismo (EsACT) - Instituto Politécnico de Bragança (IPB)
+>
+>**Address:** Campus do Cruzeiro, Av. 25 de Abril Lote 2, 5370-202 Mirandela, Bragança, Portugal
 
-**Location:** Escola Superior de Comunicação, Administração e Turismo (EsACT) - Instituto Politécnico de Bragança (IPB)
 
-**Address:** Campus do Cruzeiro, Av. 25 de Abril Lote 2, 5370-202 Mirandela, Bragança, Portugal
+## Projects:
+
 
 <!--
 
