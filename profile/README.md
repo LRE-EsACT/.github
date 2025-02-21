@@ -35,6 +35,37 @@
 </details>
 
 
+<br/>
+
+## Projects:
+
+<details>
+  <summary> <b>Main</b> </summary>
+  <br/>
+  
+  | Period | Name | Description | Technologies |
+  | --- | --- | --- | --- |
+  | Feb 2021 - Jul 2021 | Oliveria and Olive Oil Museum | Potential use of Extended Reality to promote tourist attractions and interpret cultural heritage | Virtual Reality  |
+  | Feb 2021 - Jul 2021 | EsACT Tour | Potential use of Extended Reality for remote access and independent/assisted exploration | Virtual Reality  |
+  | Mar 2022 – Sep 2023 | GreenHealth | Digital and biological asset-based strategies to improve well-being and promote green health | Virtual Reality, Mixed Reality, IoT |
+  | Dec 2023 – Jun 2024 | ReChef | Mobile Application to promote Sustainability and Healthy Eating |  |
+  | Jun 2024 – Current | Smart Mirandela | Use of Sensors to Monitor Mirandela spaces |  |
+  | Dec 2023 – Current | Teaching Geometry | Use of technology to reinforce the study of Geometry and develop the capacity for abstraction |  |
+  | Dec 2023 – Current | APPACDM Mirandela | Partnership with the Portuguese Association of Parents and Friends of Mentally Disabled Citizens of Mirandela |  |
+
+</details>
+
+<details>
+  <summary> <b>As Assistence/Support</b> </summary>
+  <br/>
+  
+  | Period | Name | Main | Description | Technologies |
+  | --- | --- | --- | --- | --- |
+  | Jan 2025 - Current | Drivolution | CEDRI | Promote the creation of a Factory of the Future model, (...) capable of responding to digital transformation in the automotive sector | |
+
+</details>
+
+
 <!--
 
 **Here are some ideas to get you started:**
