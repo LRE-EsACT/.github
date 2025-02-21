@@ -1,6 +1,6 @@
 # Extended Reality Laboratory
 
-Research in the area of ​​Human-Machine Interaction, focusing on the use of Extended Reality.
+Research in the area of ​​Human-Machine Interaction, focusing on the use of Extended Reality (Virtual Reality, Mixed Reality & Augmented Reality).
 
 <br/>
 
