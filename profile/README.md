@@ -1,5 +1,7 @@
 # Extended Reality Laboratory
 
+Research in the area of ​​Human-Machine Interaction, focusing on the use of Extended Reality;
+
 ## Contacts:
 >**Location:** Escola Superior de Comunicação, Administração e Turismo (EsACT) - Instituto Politécnico de Bragança (IPB)
 >
