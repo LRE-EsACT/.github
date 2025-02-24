@@ -44,7 +44,7 @@ Research in the area of ​​Human-Machine Interaction, focusing on the use of 
 ## Projects:
 
 <details>
-  <summary> <b>Princiapl</b> </summary>
+  <summary> <b>Main</b> </summary>
   <br/>
   
   | Period | Code Name | Description | Technologies |
@@ -62,7 +62,7 @@ Research in the area of ​​Human-Machine Interaction, focusing on the use of 
   <summary> <b>As Collaborator</b> </summary>
   <br/>
   
-  | Period | Code Name | Princiapl | Description | Technologies |
+  | Period | Code Name | Main | Description | Technologies |
   | --- | --- | --- | --- | --- |
   | Mar 2022 – Sep 2023 | GreenHealth | UNIAG | Digital and biological asset-based strategies to improve well-being and promote green health | Virtual Reality, Mixed Reality, IoT |
   | Jan 2025 - Current | Drivolution | CEDRI | Promote the creation of a Factory of the Future model, (...) capable of responding to digital transformation in the automotive sector | |
